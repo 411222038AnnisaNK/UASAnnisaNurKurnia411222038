@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mBCA</string>
+    <string name="bank_prompt">Pilih Bank</string>
+    <string-array name="bank_array">
+        <item>Mandiri</item>
+        <item>BNI</item>
+        <item>BRI</item>
+    </string-array>
+
+    <string name="layanan_prompt">Pilih Layanan</string>
+    <string-array name="layanan_array">
+        <item>BI-Fast</item>
+        <item>Transfer Online</item>
+    </string-array>
+
+</resources>
